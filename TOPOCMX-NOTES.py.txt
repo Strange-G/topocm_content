@@ -1,0 +1,42 @@
+Main Actors
+===========
+topology
+symmetry
+bulk edge correspondance
+
+TOPOLOGY-TOPOLOGICAL SUBJECT =>ALL THINGS THAT CANNOT CHANGE CONTINUOUSLY
+
+
+Zero-dimensional quantum systems (quantum dots)
+--------------------------------
+
+
+-------------
+
+-------------
+
+
+ a quantum system with a finite number of states N. The Hamiltonian of such a system is 
+ represented by a matrix H of dimension N×N. This matrix is Hermitian,
+ H=H†<-(dagger).
+ Its real eigenvalues En correspond to the allowed energies of the system,
+
+   H|n>=Ei|n>,
+
+with |n> the corresponding eigenstate.
+
+
+
+Translation Symmetry
+---------------------
+Crystals posses this. Energy conservation is a consequense of
+translation symettry in time.
+
+Magnets exist because they spontaneously BREAK time-reversal
+AND spin rotation symmetries?????
+
+
+In topology, symmetry is like an added flavor => studying the same topologies
+with different symetries provides completely different answers
+
+Gapped Quantum Systems.
